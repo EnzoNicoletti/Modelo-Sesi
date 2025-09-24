@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fundo {
+    background: #121212;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+    background-color: #1f1f1f;
+    border-color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.rodape {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    border-top: 1px solid #333;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
