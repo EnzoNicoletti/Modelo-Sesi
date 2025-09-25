@@ -5,18 +5,18 @@ body {
 }
 
 .fundo {
-    background: #121212;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000000;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar {
-    background-color: #1f1f1f;
+    background-color: #2f239b;
     border-color: #333;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .rodape {
-    background-color: #1f1f1f;
+    background-color: #1e3975;
     color: #ffffff;
     border-top: 1px solid #333;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
