@@ -5,19 +5,19 @@ body {
 }
 
 .fundo {
-    background: #121212;
+    background: #11c94e;
     color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar {
-    background-color: #1f1f1f;
+    background-color: #17bd49;
     border-color: #333;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .rodape {
-    background-color: #1f1f1f;
+    background-color: #1ec951;
     color: #ffffff;
-    border-top: 1px solid #333;
+    border-top: 1px solid #43c510;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
