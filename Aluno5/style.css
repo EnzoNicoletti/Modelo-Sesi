@@ -5,14 +5,14 @@ body {
 }
 
 .fundo {
-    background: #121212;
-    color: #ffffff;
+    background-image: url("https://qtmov.com.br/blog/wp-content/uploads/2024/04/home-office-casal-scaled.jpg");
+    color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar {
-    background-color: #1f1f1f;
-    border-color: #333;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #a35555;
+    border-color: #1a0a0a;
+    box-shadow: 0 2px 4px rgba(153, 132, 132, 0.1);
 }
 
 .rodape {
