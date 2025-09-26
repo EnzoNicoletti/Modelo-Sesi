@@ -5,9 +5,9 @@ body {
 }
 
 .fundo {
-    background-image: url("https://4kwallpapers.com/images/wallpapers/basketball-black-3840x2160-17410.jpg"); no-repeat center center fixed;
+    background-image: url("https://4kwallpapers.com/images/wallpapers/basketball-black-3840x2160-17410.jpg");
     background-size: cover;
-    color: #f0f0f0;
+    color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar {
